@@ -36,9 +36,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anzar-khan-a40906279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-MD%20Anzar%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+ <a href="https://www.linkedin.com/in/anshu-bhagat-98a3b3368/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Anshu%20Bhagat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
   <a href="mailto:anshubhagat1413@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-anshubhagat1413%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -79,12 +79,8 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech Student
-* 📊 Aspiring **Data Analyst**
 * 🐍 Learning and practicing **Python for Data Analytics**
 * 🗄️ Working with **SQL & PostgreSQL**
-* 📈 Learning **Power BI** for data visualization and business intelligence
-* 📉 Improving my **Microsoft Excel** skills for data analysis
-* 🐼 Exploring **Pandas & NumPy**
 * 🧩 Practicing **Data Structures & Algorithms with Python**
 * 🚀 Building practical and real-world data projects
 * 🌱 Exploring **Open Source**
