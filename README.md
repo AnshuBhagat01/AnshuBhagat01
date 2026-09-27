@@ -3,7 +3,7 @@
 ## 🚀 Aspiring  Python Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Enthusiast;Python+%7C+PostgreSQL+%7C+Power+BI;Turning+Data+into+Insights;Business+Intelligence+Learner;Data+Driven+Problem+Solver&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=;Python+%7C+PostgreSQL;Turning+Data+into+Insights;Business+Intelligence+Learner;Data+Driven+Problem+Solver&center=true&width=550&height=50">
 </p>
 
 ---
@@ -93,11 +93,7 @@
 ```text
 Python                 █████████████████░░░   Learning & Practicing
 SQL / PostgreSQL       ████████████████░░░░   Learning & Practicing
-Pandas & NumPy         █████████████░░░░░░░   Learning & Practicing
-Power BI               ████████████░░░░░░░░   Learning
-Excel                  █████████████░░░░░░░   Learning
 DSA                    ███████████░░░░░░░░░   Practicing
-Data Analytics         ███████████████░░░░░   Learning & Building
 ```
 
 ---
